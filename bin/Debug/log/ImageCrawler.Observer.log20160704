@@ -1,0 +1,111 @@
+2016-07-04 16:23:32,290 [8] INFO  : -------------START-------------
+2016-07-04 16:23:32,304 [8] INFO  : 	Sleep : 60000
+2016-07-04 16:23:32,306 [8] INFO  : 	CheckCount : 5
+2016-07-04 16:23:32,306 [8] INFO  : 	SMSSending : true
+2016-07-04 16:23:32,306 [8] INFO  : 	MailAddress : jiheakim@ebay.com
+2016-07-04 16:23:32,307 [8] INFO  : 	ServerList : gdimgweb03gm,gdimgweb04gm,gdimgweb05gm,gdimgweb06gm,gdimgweb07gm,gdimgweb08gm,gdimgweb09gm,gdimgweb10gm, gdimgweb03gh,gdimgweb04gh,gdimgweb05gh,gdimgweb06gh,gdimgweb07gh,gdimgweb08gh,gdimgweb09gh,gdimgweb10gh
+2016-07-04 16:23:32,307 [8] INFO  : 	ServerPortList : 3000,3001,3002
+2016-07-04 16:23:32,308 [8] INFO  : 	ClientSettingsProvider.ServiceUri : 
+2016-07-04 16:23:32,308 [8] INFO  : -------------------------------
+2016-07-04 16:23:32,311 [9] INFO  : Observer Start
+2016-07-04 16:42:45,191 [8] INFO  : -------------START-------------
+2016-07-04 16:42:45,197 [8] INFO  : 	Sleep : 60000
+2016-07-04 16:42:45,198 [8] INFO  : 	CheckCount : 5
+2016-07-04 16:42:45,198 [8] INFO  : 	SMSSending : true
+2016-07-04 16:42:45,198 [8] INFO  : 	MailAddress : jiheakim@ebay.com
+2016-07-04 16:42:45,198 [8] INFO  : 	ServerList : gdimgweb03gm,gdimgweb04gm,gdimgweb05gm,gdimgweb06gm,gdimgweb07gm,gdimgweb08gm,gdimgweb09gm,gdimgweb10gm, gdimgweb03gh,gdimgweb04gh,gdimgweb05gh,gdimgweb06gh,gdimgweb07gh,gdimgweb08gh,gdimgweb09gh,gdimgweb10gh
+2016-07-04 16:42:45,199 [8] INFO  : 	ServerPortList : 3000,3001,3002
+2016-07-04 16:42:45,199 [8] INFO  : 	ClientSettingsProvider.ServiceUri : 
+2016-07-04 16:42:45,199 [8] INFO  : -------------------------------
+2016-07-04 16:42:45,202 [9] INFO  : Observer Start
+2016-07-04 19:05:57,796 [8] INFO  : -------------START-------------
+2016-07-04 19:05:57,803 [8] INFO  : 	Sleep : 60000
+2016-07-04 19:05:57,803 [8] INFO  : 	CheckCount : 5
+2016-07-04 19:05:57,804 [8] INFO  : 	SMSSending : true
+2016-07-04 19:05:57,804 [8] INFO  : 	MailAddress : jiheakim@ebay.com
+2016-07-04 19:05:57,804 [8] INFO  : 	ServerList : gdimgweb03gm,gdimgweb04gm,gdimgweb05gm,gdimgweb06gm,gdimgweb07gm,gdimgweb08gm,gdimgweb09gm,gdimgweb10gm, gdimgweb03gh,gdimgweb04gh,gdimgweb05gh,gdimgweb06gh,gdimgweb07gh,gdimgweb08gh,gdimgweb09gh,gdimgweb10gh
+2016-07-04 19:05:57,805 [8] INFO  : 	ServerPortList : 3000,3001,3002
+2016-07-04 19:05:57,805 [8] INFO  : 	ClientSettingsProvider.ServiceUri : 
+2016-07-04 19:05:57,805 [8] INFO  : -------------------------------
+2016-07-04 19:05:57,807 [9] INFO  : Observer Start
+2016-07-04 19:21:34,304 [8] INFO  : -------------START-------------
+2016-07-04 19:21:34,314 [8] INFO  : 	Sleep : 60000
+2016-07-04 19:21:34,314 [8] INFO  : 	CheckCount : 5
+2016-07-04 19:21:34,315 [8] INFO  : 	SMSSending : true
+2016-07-04 19:21:34,315 [8] INFO  : 	MailAddress : jiheakim@ebay.com
+2016-07-04 19:21:34,316 [8] INFO  : 	ServerList : gdimgweb03gm,gdimgweb04gm,gdimgweb05gm,gdimgweb06gm,gdimgweb07gm,gdimgweb08gm,gdimgweb09gm,gdimgweb10gm, gdimgweb03gh,gdimgweb04gh,gdimgweb05gh,gdimgweb06gh,gdimgweb07gh,gdimgweb08gh,gdimgweb09gh,gdimgweb10gh
+2016-07-04 19:21:34,316 [8] INFO  : 	ServerPortList : 3000,3001,3002
+2016-07-04 19:21:34,317 [8] INFO  : 	ClientSettingsProvider.ServiceUri : 
+2016-07-04 19:21:34,317 [8] INFO  : -------------------------------
+2016-07-04 19:21:34,322 [9] INFO  : Observer Start
+2016-07-04 19:42:14,925 [8] INFO  : -------------START-------------
+2016-07-04 19:42:14,935 [8] INFO  : 	Sleep : 60000
+2016-07-04 19:42:14,936 [8] INFO  : 	CheckCount : 5
+2016-07-04 19:42:14,937 [8] INFO  : 	SMSSending : true
+2016-07-04 19:42:14,937 [8] INFO  : 	MailAddress : jiheakim@ebay.com
+2016-07-04 19:42:14,938 [8] INFO  : 	ServerList : gdimgweb03gm,gdimgweb04gm,gdimgweb05gm,gdimgweb06gm,gdimgweb07gm,gdimgweb08gm,gdimgweb09gm,gdimgweb10gm, gdimgweb03gh,gdimgweb04gh,gdimgweb05gh,gdimgweb06gh,gdimgweb07gh,gdimgweb08gh,gdimgweb09gh,gdimgweb10gh
+2016-07-04 19:42:14,940 [8] INFO  : 	ServerPortList : 3000,3001,3002
+2016-07-04 19:42:14,941 [8] INFO  : 	ClientSettingsProvider.ServiceUri : 
+2016-07-04 19:42:14,942 [8] INFO  : -------------------------------
+2016-07-04 19:42:14,946 [9] INFO  : Observer Start
+2016-07-04 19:51:03,743 [8] INFO  : -------------START-------------
+2016-07-04 19:51:03,752 [8] INFO  : 	Sleep : 60000
+2016-07-04 19:51:03,753 [8] INFO  : 	CheckCount : 5
+2016-07-04 19:51:03,753 [8] INFO  : 	SMSSending : true
+2016-07-04 19:51:03,754 [8] INFO  : 	MailAddress : jiheakim@ebay.com
+2016-07-04 19:51:03,754 [8] INFO  : 	ServerList : gdimgweb03gm,gdimgweb04gm,gdimgweb05gm,gdimgweb06gm,gdimgweb07gm,gdimgweb08gm,gdimgweb09gm,gdimgweb10gm, gdimgweb03gh,gdimgweb04gh,gdimgweb05gh,gdimgweb06gh,gdimgweb07gh,gdimgweb08gh,gdimgweb09gh,gdimgweb10gh
+2016-07-04 19:51:03,754 [8] INFO  : 	ServerPortList : 3000,3001,3002
+2016-07-04 19:51:03,755 [8] INFO  : 	ClientSettingsProvider.ServiceUri : 
+2016-07-04 19:51:03,755 [8] INFO  : -------------------------------
+2016-07-04 19:51:03,758 [9] INFO  : Observer Start
+2016-07-04 19:52:37,517 [8] INFO  : -------------START-------------
+2016-07-04 19:52:37,524 [8] INFO  : 	Sleep : 60000
+2016-07-04 19:52:37,525 [8] INFO  : 	CheckCount : 5
+2016-07-04 19:52:37,525 [8] INFO  : 	SMSSending : true
+2016-07-04 19:52:37,525 [8] INFO  : 	MailAddress : jiheakim@ebay.com
+2016-07-04 19:52:37,526 [8] INFO  : 	ServerList : gdimgweb03gm,gdimgweb04gm,gdimgweb05gm,gdimgweb06gm,gdimgweb07gm,gdimgweb08gm,gdimgweb09gm,gdimgweb10gm, gdimgweb03gh,gdimgweb04gh,gdimgweb05gh,gdimgweb06gh,gdimgweb07gh,gdimgweb08gh,gdimgweb09gh,gdimgweb10gh
+2016-07-04 19:52:37,526 [8] INFO  : 	ServerPortList : 3000,3001,3002
+2016-07-04 19:52:37,526 [8] INFO  : 	ClientSettingsProvider.ServiceUri : 
+2016-07-04 19:52:37,527 [8] INFO  : -------------------------------
+2016-07-04 19:52:37,529 [9] INFO  : Observer Start
+2016-07-04 19:55:52,517 [7] INFO  : -------------START-------------
+2016-07-04 19:55:52,524 [7] INFO  : 	Sleep : 60000
+2016-07-04 19:55:52,525 [7] INFO  : 	CheckCount : 5
+2016-07-04 19:55:52,525 [7] INFO  : 	SMSSending : true
+2016-07-04 19:55:52,525 [7] INFO  : 	MailAddress : jiheakim@ebay.com
+2016-07-04 19:55:52,526 [7] INFO  : 	ServerList : gdimgweb03gm,gdimgweb04gm,gdimgweb05gm,gdimgweb06gm,gdimgweb07gm,gdimgweb08gm,gdimgweb09gm,gdimgweb10gm, gdimgweb03gh,gdimgweb04gh,gdimgweb05gh,gdimgweb06gh,gdimgweb07gh,gdimgweb08gh,gdimgweb09gh,gdimgweb10gh
+2016-07-04 19:55:52,526 [7] INFO  : 	ServerPortList : 3000,3001,3002
+2016-07-04 19:55:52,526 [7] INFO  : 	ClientSettingsProvider.ServiceUri : 
+2016-07-04 19:55:52,526 [7] INFO  : -------------------------------
+2016-07-04 19:55:52,532 [8] INFO  : Observer Start
+2016-07-04 20:00:52,369 [8] INFO  : -------------START-------------
+2016-07-04 20:00:52,377 [8] INFO  : 	Sleep : 60000
+2016-07-04 20:00:52,378 [8] INFO  : 	CheckCount : 5
+2016-07-04 20:00:52,378 [8] INFO  : 	SMSSending : true
+2016-07-04 20:00:52,379 [8] INFO  : 	MailAddress : jiheakim@ebay.com
+2016-07-04 20:00:52,379 [8] INFO  : 	ServerList : gdimgweb03gm,gdimgweb04gm,gdimgweb05gm,gdimgweb06gm,gdimgweb07gm,gdimgweb08gm,gdimgweb09gm,gdimgweb10gm, gdimgweb03gh,gdimgweb04gh,gdimgweb05gh,gdimgweb06gh,gdimgweb07gh,gdimgweb08gh,gdimgweb09gh,gdimgweb10gh
+2016-07-04 20:00:52,380 [8] INFO  : 	ServerPortList : 3000,3001,3002
+2016-07-04 20:00:52,380 [8] INFO  : 	ClientSettingsProvider.ServiceUri : 
+2016-07-04 20:00:52,382 [8] INFO  : -------------------------------
+2016-07-04 20:00:52,386 [9] INFO  : Observer Start
+2016-07-04 20:05:18,092 [8] INFO  : -------------START-------------
+2016-07-04 20:05:18,100 [8] INFO  : 	Sleep : 60000
+2016-07-04 20:05:18,101 [8] INFO  : 	CheckCount : 5
+2016-07-04 20:05:18,101 [8] INFO  : 	SMSSending : true
+2016-07-04 20:05:18,102 [8] INFO  : 	MailAddress : jiheakim@ebay.com
+2016-07-04 20:05:18,102 [8] INFO  : 	ServerList : gdimgweb03gm,gdimgweb04gm,gdimgweb05gm,gdimgweb06gm,gdimgweb07gm,gdimgweb08gm,gdimgweb09gm,gdimgweb10gm, gdimgweb03gh,gdimgweb04gh,gdimgweb05gh,gdimgweb06gh,gdimgweb07gh,gdimgweb08gh,gdimgweb09gh,gdimgweb10gh
+2016-07-04 20:05:18,103 [8] INFO  : 	ServerPortList : 3000,3001,3002
+2016-07-04 20:05:18,103 [8] INFO  : 	ClientSettingsProvider.ServiceUri : 
+2016-07-04 20:05:18,104 [8] INFO  : -------------------------------
+2016-07-04 20:05:18,107 [9] INFO  : Observer Start
+2016-07-04 20:06:51,455 [9] INFO  : Observer Waiting..60000
+2016-07-04 20:08:51,671 [1] INFO  : -------------START-------------
+2016-07-04 20:08:51,678 [1] INFO  : 	Sleep : 60000
+2016-07-04 20:08:51,678 [1] INFO  : 	CheckCount : 5
+2016-07-04 20:08:51,679 [1] INFO  : 	SMSSending : true
+2016-07-04 20:08:51,679 [1] INFO  : 	MailAddress : jiheakim@ebay.com
+2016-07-04 20:08:51,679 [1] INFO  : 	ServerList : gdimgweb03gm,gdimgweb04gm,gdimgweb05gm,gdimgweb06gm,gdimgweb07gm,gdimgweb08gm,gdimgweb09gm,gdimgweb10gm, gdimgweb03gh,gdimgweb04gh,gdimgweb05gh,gdimgweb06gh,gdimgweb07gh,gdimgweb08gh,gdimgweb09gh,gdimgweb10gh
+2016-07-04 20:08:51,679 [1] INFO  : 	ServerPortList : 3000,3001,3002
+2016-07-04 20:08:51,680 [1] INFO  : 	ClientSettingsProvider.ServiceUri : 
+2016-07-04 20:08:51,680 [1] INFO  : -------------------------------
+2016-07-04 20:08:51,682 [3] INFO  : Observer Start
